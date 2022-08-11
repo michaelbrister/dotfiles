@@ -4,7 +4,7 @@
 
 ## Installation
 
-`sh -c "$(curl -fsLS git.io/chezmoi)" -- init --apply spf13`
+`sh -c "$(curl -fsLS git.io/chezmoi)" -- init`
 
 ## Update any machine
 
