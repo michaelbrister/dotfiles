@@ -59,6 +59,11 @@ return packer.startup(function(use)
   use "fatih/vim-go"
   use "hashivim/vim-terraform"
 
+  -- prettier
+  use('neovim/nvim-lspconfig')
+  use('jose-elias-alvarez/null-ls.nvim')
+  use('MunifTanjim/prettier.nvim')
+
   -- nvim-tree
   use {
     'kyazdani42/nvim-tree.lua',
