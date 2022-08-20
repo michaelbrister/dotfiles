@@ -4,7 +4,7 @@
 
 ## Installation
 
-`sh -c "$(curl -fsLS git.io/chezmoi)" -- init`
+`$ sh -c "$(curl -fsLS https://chezmoi.io/get)" -- init --apply michaelbrister`
 
 ## Update any machine
 
