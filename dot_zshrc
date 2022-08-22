@@ -114,6 +114,8 @@ alias hqvpn='sudo openvpn ~/Documents/OVPN/hq.ovpn'
 alias prodvpn='sudo openvpn ~/Documents/OVPN/prod.ovpn'
 alias buildvpn='sudo openvpn ~/Documents/OVPN/build.ovpn'
 
+alias logseq='logseq.appimage'
+
 export GOROOT=/usr/local/go
 export GOPATH=$HOME/go
 export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
