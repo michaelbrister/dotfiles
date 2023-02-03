@@ -114,6 +114,8 @@ alias hqvpn='sudo openvpn ~/Documents/OVPN/hq.ovpn'
 alias prodvpn='sudo openvpn ~/Documents/OVPN/prod.ovpn'
 alias buildvpn='sudo openvpn ~/Documents/OVPN/build.ovpn'
 
+alias weather='curl wttr.in/stow,oh'
+
 alias logseq='logseq.appimage'
 
 export GOROOT=/usr/local/go
